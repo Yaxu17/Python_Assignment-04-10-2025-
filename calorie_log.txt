@@ -1,84 +1,6 @@
 
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 03:27:56
-
-Meal Name           Calories
-------------------------------
-Breakfast           350
-Lunch               600
-Dinner              500
-------------------------------
-Total:              1450
-Average:            483.33
-✅ Great! You are within your daily calorie limit.
-
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 03:27:56
-
-Meal Name           Calories
-------------------------------
-Paratha             400
-Dal Chawal          550
-Sambar              300
-------------------------------
-Total:              1250
-Average:            416.67
-✅ Great! You are within your daily calorie limit.
-
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 03:27:57
-
-Meal Name           Calories
-------------------------------
-Chole bhature       600
-Saag                800
-Dal Roti            200
-------------------------------
-Total:              1600
-Average:            533.33
-⚠️ Warning: You exceeded your daily calorie limit!
-
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 16:56:06
-
-Meal Name           Calories
-------------------------------
-Breakfast           350
-Lunch               600
-Dinner              500
-------------------------------
-Total:              1450
-Average:            483.33
-✅ Great! You are within your daily calorie limit.
-
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 16:56:06
-
-Meal Name           Calories
-------------------------------
-Paratha             400
-Dal Chawal          550
-Sambar              300
-------------------------------
-Total:              1250
-Average:            416.67
-✅ Great! You are within your daily calorie limit.
-
-🍎 Daily Calorie Tracker Log 🍎
-Date & Time: 2025-10-04 16:56:06
-
-Meal Name           Calories
-------------------------------
-Chole bhature       600
-Saag                800
-Dal Roti            200
-------------------------------
-Total:              1600
-Average:            533.33
-⚠️ Warning: You exceeded your daily calorie limit!
-
  Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:33:48
+Date & Time: 04-10-2025 17:49
 
 Meal Name           Calories
 ------------------------------
@@ -91,7 +13,7 @@ Average:            483.33
  Great! You are within your daily calorie limit.
 
  Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:33:48
+Date & Time: 04-10-2025 17:49
 
 Meal Name           Calories
 ------------------------------
@@ -104,85 +26,7 @@ Average:            416.67
  Great! You are within your daily calorie limit.
 
  Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:33:48
-
-Meal Name           Calories
-------------------------------
-Chole bhature       600
-Saag                800
-Dal Roti            200
-------------------------------
-Total:              1600
-Average:            533.33
- Warning: You exceeded your daily calorie limit!
-
- Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:36:49
-
-Meal Name           Calories
-------------------------------
-Breakfast           350
-Lunch               600
-Dinner              500
-------------------------------
-Total:              1450
-Average:            483.33
- Great! You are within your daily calorie limit.
-
- Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:36:49
-
-Meal Name           Calories
-------------------------------
-Paratha             400
-Dal Chawal          550
-Sambar              300
-------------------------------
-Total:              1250
-Average:            416.67
- Great! You are within your daily calorie limit.
-
- Daily Calorie Tracker Log 
-Date & Time: 2025-10-04 17:36:49
-
-Meal Name           Calories
-------------------------------
-Chole bhature       600
-Saag                800
-Dal Roti            200
-------------------------------
-Total:              1600
-Average:            533.33
- Warning: You exceeded your daily calorie limit!
-
- Daily Calorie Tracker Log 
-Date & Time: 04-10-2025 17:38
-
-Meal Name           Calories
-------------------------------
-Breakfast           350
-Lunch               600
-Dinner              500
-------------------------------
-Total:              1450
-Average:            483.33
- Great! You are within your daily calorie limit.
-
- Daily Calorie Tracker Log 
-Date & Time: 04-10-2025 17:38
-
-Meal Name           Calories
-------------------------------
-Paratha             400
-Dal Chawal          550
-Sambar              300
-------------------------------
-Total:              1250
-Average:            416.67
- Great! You are within your daily calorie limit.
-
- Daily Calorie Tracker Log 
-Date & Time: 04-10-2025 17:38
+Date & Time: 04-10-2025 17:49
 
 Meal Name           Calories
 ------------------------------
